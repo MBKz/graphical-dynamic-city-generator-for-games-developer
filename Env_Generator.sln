@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Env_Generator", "Env_Generator\Env_Generator.vcxproj", "{6461ED75-B6EB-4F43-AC08-3DD8FD6315D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6461ED75-B6EB-4F43-AC08-3DD8FD6315D2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6461ED75-B6EB-4F43-AC08-3DD8FD6315D2}.Debug|Win32.Build.0 = Debug|Win32
+		{6461ED75-B6EB-4F43-AC08-3DD8FD6315D2}.Release|Win32.ActiveCfg = Release|Win32
+		{6461ED75-B6EB-4F43-AC08-3DD8FD6315D2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
