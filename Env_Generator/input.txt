@@ -1,0 +1,6 @@
+Number of building:
+50
+Number of floors:
+10
+Number of rooms on the floor:
+4
